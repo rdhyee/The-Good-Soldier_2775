@@ -1,0 +1,43 @@
+_repo: The-Good-Soldier_2775
+_version: 0.0.1
+covers:
+- attribution: vikram nongmaithem, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
+creator:
+  author:
+    agent_name: Ford, Ford Madox
+    aliases:
+    - Chaucer, Daniel
+    - Hueffer, Ford Hermann
+    - Huffer, Ford
+    - Hueffer, Ford Madox
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '1016'
+    url: http://www.gutenberg.org/2009/agents/1016
+    wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2775'
+language: en
+publication_date: 2015-08-01
+publisher: Recovering the Classics
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
+subjects:
+- '!lcsh: British -- Germany -- Fiction'
+- '!lcc: PR'
+- '!lcsh: Friendship -- Fiction'
+- '!lcsh: Hessen (Hesse, Germany : Province) -- Fiction'
+- '!lcsh: Married people -- Fiction'
+- '!lcsh: Middle class -- Fiction'
+- '!lcsh: Bad Nauheim (Germany) -- Fiction'
+- '!lcsh: Adultery -- Fiction'
+- '!lcsh: Domestic fiction'
+- GITenberg
+title: The Good Soldier
+url: http://www.gutenberg.org/ebooks/2775
